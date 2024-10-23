@@ -1,2 +1,2 @@
 # TP_SO_i1_Equipo
-Grupo 108
+Trabjo del grupo 108
